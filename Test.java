@@ -12,8 +12,8 @@ public class Test
     }
     public static void main(String[] args)
     {
-        int a;
-        int b;
+        int a=10;
+        int b=a;
         A obj=new A();
         obj.display();
         display();
