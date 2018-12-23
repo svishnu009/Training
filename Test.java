@@ -2,6 +2,7 @@ class A
 {
     public void display(){
         System.out.println("this is display func");
+        return 10;
     }
 }
 public class Test
