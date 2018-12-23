@@ -6,7 +6,7 @@ class A
 }
 public class Test
 {
-    void display()
+    static void display()
     {
         System.out.println("display");
     }
